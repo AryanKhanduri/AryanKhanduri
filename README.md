@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aryan Khanduri 👋
 
-<!--
-**AryanKhanduri/AryanKhanduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- BE-CSE Student at Chandigarh University
+- Learning Full Stack Development
+- Interested in AI & Software Engineering
+- Currently learning React and Node.js
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- React.js
+- Node.js
+- MERN Stack
+- APIs
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aryankhanduri
